@@ -12,8 +12,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 // Passthrough benchmark loads a PDF, writes back out and performs a sanity check on the output with ghostscript.

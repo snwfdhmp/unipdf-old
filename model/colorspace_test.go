@@ -11,8 +11,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/internal/testutils"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/internal/testutils"
 )
 
 func TestSeparationCS1(t *testing.T) {

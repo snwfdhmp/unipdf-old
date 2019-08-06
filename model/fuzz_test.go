@@ -8,7 +8,7 @@ package model
 import (
 	"testing"
 
-	"github.com/unidoc/unipdf/core"
+	"github.com/snwfdhmp/unipdf/core"
 )
 
 // Test for an endless recursive loop in

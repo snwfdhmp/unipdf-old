@@ -9,10 +9,10 @@ import (
 	"errors"
 	"math"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/internal/sampling"
-	"github.com/unidoc/unipdf/ps"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/internal/sampling"
+	"github.com/snwfdhmp/unipdf/ps"
 )
 
 // PdfFunction interface represents the common methods of a function in PDF.

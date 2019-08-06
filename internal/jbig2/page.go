@@ -9,10 +9,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/unidoc/unipdf/common"
+	"github.com/snwfdhmp/unipdf/common"
 
-	"github.com/unidoc/unipdf/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/internal/jbig2/segments"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/bitmap"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/segments"
 )
 
 // Page represents JBIG2 Page structure.

@@ -9,9 +9,9 @@ import (
 	"io"
 	"math"
 
-	"github.com/unidoc/unipdf/common"
+	"github.com/snwfdhmp/unipdf/common"
 
-	"github.com/unidoc/unipdf/internal/jbig2/reader"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/reader"
 )
 
 // Define the constant arithmetic decoder tables.

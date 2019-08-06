@@ -8,9 +8,9 @@ package contentstream
 import (
 	"errors"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 func makeParamsFromFloats(vals []float64) []core.PdfObject {

@@ -11,10 +11,10 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/contentstream"
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/contentstream"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 // Block contains a portion of PDF Page contents. It has a width and a position and can

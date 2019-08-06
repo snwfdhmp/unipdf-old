@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 var seed = rand.New(rand.NewSource(time.Now().UnixNano()))

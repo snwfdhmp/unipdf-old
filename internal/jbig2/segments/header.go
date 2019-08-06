@@ -11,9 +11,9 @@ import (
 	"io"
 	"strings"
 
-	"github.com/unidoc/unipdf/common"
+	"github.com/snwfdhmp/unipdf/common"
 
-	"github.com/unidoc/unipdf/internal/jbig2/reader"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/reader"
 )
 
 // Header is the segment header used to define the segment parameters - see 7.2.

@@ -6,8 +6,8 @@
 package optimize
 
 import (
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 // Chain allows to use sequence of optimizers.

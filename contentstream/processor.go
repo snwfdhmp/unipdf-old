@@ -8,10 +8,10 @@ package contentstream
 import (
 	"errors"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/internal/transform"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/internal/transform"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 // GraphicsState is a basic graphics state implementation for PDF processing.

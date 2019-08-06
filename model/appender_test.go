@@ -20,11 +20,11 @@ import (
 	"github.com/stretchr/testify/require"
 	"golang.org/x/crypto/pkcs12"
 
-	"github.com/unidoc/unipdf/annotator"
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/model"
-	"github.com/unidoc/unipdf/model/sighandler"
+	"github.com/snwfdhmp/unipdf/annotator"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/model"
+	"github.com/snwfdhmp/unipdf/model/sighandler"
 )
 
 // This test file contains multiple tests to generate PDFs from existing Pdf files. The outputs are written

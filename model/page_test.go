@@ -9,8 +9,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/core"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/core"
 )
 
 // ParseIndObjSeries loads a series of indirect objects until it runs into an error or EOF.

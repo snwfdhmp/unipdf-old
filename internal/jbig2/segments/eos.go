@@ -6,7 +6,7 @@
 package segments
 
 import (
-	"github.com/unidoc/unipdf/internal/jbig2/reader"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/reader"
 )
 
 // EndOfStripe flags an end of stripe - see 7.4.9.

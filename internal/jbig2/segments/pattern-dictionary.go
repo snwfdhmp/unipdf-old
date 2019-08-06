@@ -9,10 +9,10 @@ import (
 	"errors"
 	"image"
 
-	"github.com/unidoc/unipdf/common"
+	"github.com/snwfdhmp/unipdf/common"
 
-	"github.com/unidoc/unipdf/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/internal/jbig2/reader"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/bitmap"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/reader"
 )
 
 // PatternDictionary is the jbig2 model for the pattern dictionary segment - 7.4.4.

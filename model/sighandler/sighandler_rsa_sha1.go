@@ -14,8 +14,8 @@ import (
 	"errors"
 	"hash"
 
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 // SignFunc represents a custom signing function. The function should return

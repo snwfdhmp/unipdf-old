@@ -10,8 +10,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/internal/testutils"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/internal/testutils"
 )
 
 // Test loading of a basic checkbox field with a merged-in annotation.

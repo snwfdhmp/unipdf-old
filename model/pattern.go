@@ -10,8 +10,8 @@ import (
 
 	"fmt"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/core"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/core"
 )
 
 // A PdfPattern can represent a Pattern, either a tiling pattern or a shading pattern.

@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/core"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/core"
 )
 
 // Hasher is the interface that wraps the basic Write method.

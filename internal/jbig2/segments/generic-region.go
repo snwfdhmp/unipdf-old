@@ -9,12 +9,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/unidoc/unipdf/common"
+	"github.com/snwfdhmp/unipdf/common"
 
-	"github.com/unidoc/unipdf/internal/jbig2/bitmap"
-	"github.com/unidoc/unipdf/internal/jbig2/decoder/arithmetic"
-	"github.com/unidoc/unipdf/internal/jbig2/decoder/mmr"
-	"github.com/unidoc/unipdf/internal/jbig2/reader"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/bitmap"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/decoder/arithmetic"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/decoder/mmr"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/reader"
 )
 
 // GenericRegion represents a generic region segment.

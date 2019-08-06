@@ -8,8 +8,8 @@ package creator
 import (
 	"os"
 
-	"github.com/unidoc/unipdf/contentstream/draw"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/contentstream/draw"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 // Loads the template from path as a list of pages.

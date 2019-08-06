@@ -10,7 +10,7 @@ import (
 	"bytes"
 	"unicode/utf16"
 
-	"github.com/unidoc/unipdf/common"
+	"github.com/snwfdhmp/unipdf/common"
 )
 
 var pdfdocEncodingRuneMap map[rune]byte

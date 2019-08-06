@@ -20,11 +20,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/common/license"
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/core/security"
-	"github.com/unidoc/unipdf/core/security/crypt"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/common/license"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/core/security"
+	"github.com/snwfdhmp/unipdf/core/security/crypt"
 )
 
 var pdfAuthor = ""

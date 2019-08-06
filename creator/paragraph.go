@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/unidoc/unipdf/common"
-	"github.com/unidoc/unipdf/contentstream"
-	"github.com/unidoc/unipdf/core"
-	"github.com/unidoc/unipdf/model"
+	"github.com/snwfdhmp/unipdf/common"
+	"github.com/snwfdhmp/unipdf/contentstream"
+	"github.com/snwfdhmp/unipdf/core"
+	"github.com/snwfdhmp/unipdf/model"
 )
 
 // Paragraph represents text drawn with a specified font and can wrap across lines and pages.

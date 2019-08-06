@@ -8,8 +8,8 @@ package segments
 import (
 	"fmt"
 
-	"github.com/unidoc/unipdf/internal/jbig2/decoder/huffman"
-	"github.com/unidoc/unipdf/internal/jbig2/reader"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/decoder/huffman"
+	"github.com/snwfdhmp/unipdf/internal/jbig2/reader"
 )
 
 // TableSegment is the model used for user defined Huffman Table Segment - see 7.4.13 and appendix B.

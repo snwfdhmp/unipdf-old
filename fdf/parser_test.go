@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/unidoc/unipdf/core"
+	"github.com/snwfdhmp/unipdf/core"
 )
 
 const fdfExample1 = `
