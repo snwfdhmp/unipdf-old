@@ -1,3 +1,5 @@
+> I (snwfdhmp) DO NOT OWN THE CODE. Please visit https://github.com/unidoc/unipdf for original repo.
+
 # UniPDF - PDF for Go
 
 [UniDoc](http://unidoc.io)'s UniPDF (formerly unidoc) is a PDF library for Go (golang) with capabilities for
