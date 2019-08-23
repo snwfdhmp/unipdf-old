@@ -1,4 +1,4 @@
-> I (snwfdhmp) DO NOT OWN THE CODE. Please visit https://github.com/unidoc/unipdf for original repo.
+> snwfdhmp: I DO NOT OWN THE CODE. Please visit https://github.com/unidoc/unipdf for original repo.
 
 # UniPDF - PDF for Go
 
